@@ -1,0 +1,13 @@
+*.exe
+*.zip
+*.dll
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.json
+*.log
+*.tmp
+cache/
+backups/
+.env*
