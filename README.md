@@ -7,7 +7,7 @@ Dos flujos para sustituir el fondo de una webcam por una imagen local en OBS Stu
 | CPU | obs-backgroundremoval 1.4.1, modelo Robust Video Matting, 2 hilos | Equipos sin RTX; mayor carga de CPU |
 | NVIDIA | NVIDIA Video Effects SDK 0.7.6 Ampere, filtro nativo de OBS en modo Performance | GeForce RTX serie 30, incluida RTX 3070 |
 
-La instalación del método NVIDIA abre el asistente oficial: puede solicitar elevación y requiere cerrarlo al terminar. La descarga, verificación y configuración de escena están automatizadas; no se promete instalación totalmente desatendida. No hace falta ejecutar la aplicación NVIDIA Broadcast.
+La descarga, verificación y configuración de escena están automatizadas; no se promete instalación totalmente desatendida. No hace falta ejecutar la aplicación NVIDIA Broadcast.
 
 ## Requisitos
 
